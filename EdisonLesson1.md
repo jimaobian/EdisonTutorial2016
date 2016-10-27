@@ -1,5 +1,6 @@
 # Reference Link
 
+- [Link of this tutorial on github](https://github.com/jimaobian/EdisonTutorial2016/blob/master/EdisonLesson1.md)
 - [Get Start with Edison on Intel IoT Developer Zone](https://software.intel.com/en-us/get-started-edison-windows-step1)
 - [DFRobot 中文社区 Edison 板块](http://www.dfrobot.com.cn/community/forum-79-1.html)
 - [Intel Edison official community](https://communities.intel.com/community/tech/edison/content)
