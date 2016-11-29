@@ -70,7 +70,7 @@
 
 - 运行软件包中的 Arduino 安装包
 
- ![Untitled 31](Image\Untitled 31.png)
+ ![Untitled 31](Image/Untitled 31.png)
 
 ------
 
